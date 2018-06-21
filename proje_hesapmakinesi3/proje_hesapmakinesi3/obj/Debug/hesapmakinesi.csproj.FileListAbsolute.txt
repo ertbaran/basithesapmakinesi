@@ -1,0 +1,13 @@
+C:\Users\Ertuğrul\source\repos\proje_hesapmakinesi3\proje_hesapmakinesi3\bin\Debug\hesapmakinesi.exe.config
+C:\Users\Ertuğrul\source\repos\proje_hesapmakinesi3\proje_hesapmakinesi3\bin\Debug\hesapmakinesi.exe
+C:\Users\Ertuğrul\source\repos\proje_hesapmakinesi3\proje_hesapmakinesi3\bin\Debug\hesapmakinesi.pdb
+C:\Users\Ertuğrul\source\repos\proje_hesapmakinesi3\proje_hesapmakinesi3\bin\Debug\tr-TR\hesapmakinesi.resources.dll
+C:\Users\Ertuğrul\source\repos\proje_hesapmakinesi3\proje_hesapmakinesi3\obj\Debug\proje_hesapmakinesi3.Form1.resources
+C:\Users\Ertuğrul\source\repos\proje_hesapmakinesi3\proje_hesapmakinesi3\obj\Debug\hesapmakinesi.Properties.Resources.resources
+C:\Users\Ertuğrul\source\repos\proje_hesapmakinesi3\proje_hesapmakinesi3\obj\Debug\proje_hesapmakinesi3.Form1.tr-TR.resources
+C:\Users\Ertuğrul\source\repos\proje_hesapmakinesi3\proje_hesapmakinesi3\obj\Debug\hesapmakinesi.csproj.GenerateResource.cache
+C:\Users\Ertuğrul\source\repos\proje_hesapmakinesi3\proje_hesapmakinesi3\obj\Debug\hesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Ertuğrul\source\repos\proje_hesapmakinesi3\proje_hesapmakinesi3\obj\Debug\tr-TR\hesapmakinesi.resources.dll
+C:\Users\Ertuğrul\source\repos\proje_hesapmakinesi3\proje_hesapmakinesi3\obj\Debug\hesapmakinesi.exe
+C:\Users\Ertuğrul\source\repos\proje_hesapmakinesi3\proje_hesapmakinesi3\obj\Debug\hesapmakinesi.pdb
+C:\Users\Ertuğrul\source\repos\proje_hesapmakinesi3\proje_hesapmakinesi3\obj\Debug\hesapmakinesi.csprojAssemblyReference.cache
