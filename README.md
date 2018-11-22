@@ -1,3 +1,3 @@
 # basithesapmakinesi
 Basit Yapılı Hesap Makinesi (Calculator) TR/ENG
-https://i.hizliresim.com/QL16br.png
+<a href="https://hizliresim.com/QL16br"><img src="https://i.hizliresim.com/QL16br.png"></a>
